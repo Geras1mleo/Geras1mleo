@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Sviatoslav and I am CS student at UGent, from Belgium/Ukraine!</p>
+<p align="left">My name is Sviatoslav and I am a CS student at UGent, coming from Belgium/Ukraine!</p>
 
 ###
 

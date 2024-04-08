@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 Currently learning Typescript<br>🗣 I speak Ukrainian, Dutch and English</p>
+<p align="left">✨ Improving my programming skills since 2020<br>📚 Currently learning Typescript<br>🗣 I speak Ukrainian, Dutch and English</p>
 
 ###
 
